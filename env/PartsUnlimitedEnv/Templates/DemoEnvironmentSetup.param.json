@@ -3,22 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "WebsiteName": {
-            "value": ""
+            "value": "partUnlimitedWeb"
         },
         "PartsUnlimitedServerName": {
-            "value": ""
+            "value": "PUTLDAWeb01"
         },
         "PartsUnlimitedHostingPlanName": {
             "value": "PartsBasicFree"
         },
         "CdnStorageAccountName": {
-            "value": ""
+            "value": "nkedemocdnstore03456"
         },
         "CdnStorageContainerName": {
             "value": "cdn"
         },
         "PartsUnlimitedServerAdminLoginPassword": {
-            "value": ""
+            "value": "p4rk3rAzureAdm1n"
         }
     }
 }
